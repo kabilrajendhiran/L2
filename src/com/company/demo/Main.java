@@ -32,6 +32,14 @@ public class Main {
         Question4 question4 = new Question4();
         question4.findMaxPath(mat);*/
 
-        Question1.findFactorsAndSort(new int[] {1, 6, 7, 4, 9});
+        /*Question1.findFactorsAndSort(new int[] {1, 6, 7, 4, 9});*/
+
+
+        Question3 question3 = new Question3();
+        question3.isPalinDrome(10);
+        question3.isPalinDrome(5);
+        question3.isPalinDrome(6);
+        question3.isPalinDrome(7);
+        question3.isPalinDrome(9);
     }
 }
